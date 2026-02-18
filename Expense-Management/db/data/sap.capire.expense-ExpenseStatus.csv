@@ -1,0 +1,11 @@
+code,name,descr
+Draft,Draft,Expense is in draft status
+Submitted,Submitted,Expense submitted for approval
+Approved,Approved,Expense approved by manager
+Rejected,Rejected,Expense rejected
+Paid,Paid,Expense has been paid
+Pending,Pending,Expense awaiting action
+Review,Under Review,Expense under manager review
+OnHold,On Hold,Expense temporarily held
+Closed,Closed,Expense processing completed
+Archived,Archived,Expense archived

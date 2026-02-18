@@ -1,0 +1,21 @@
+ID,locale,name,descr
+1,de,Reise,Geschäftsreisekosten wie Flüge und Taxis
+1,fr,Voyage,Frais de voyage d'affaires tels que vols et taxis
+2,de,Mahlzeiten,Lebensmittel- und Mahlzeitenkosten während der Arbeitszeit
+2,fr,Repas,Dépenses alimentaires et repas pendant les heures de bureau
+3,de,Bürobedarf,Schreibwaren- und bürobezogene Ausgaben
+3,fr,Fournitures de bureau,Frais de papeterie et de fournitures de bureau
+4,de,Medizinisch,Medizinische und gesundheitsbezogene Ausgaben
+4,fr,Médical,Dépenses médicales et liées à la santé
+5,de,Schulung,Ausgaben für berufliche Schulungen und Zertifizierungen
+5,fr,Formation,Dépenses de formation professionnelle et de certification
+6,de,Unterkunft,Ausgaben für Hotels und Unterkunft
+6,fr,Hébergement,Dépenses d'hôtel et de logement
+7,de,Internet,Internet- und Breitbandgebühren
+7,fr,Internet,Frais d'Internet et haut débit
+8,de,Mobilfunk,Ausgaben für Mobiltelefone
+8,fr,Mobile,Dépenses de téléphones mobiles
+9,de,Unterhaltung,Kundenunterhaltung und Teamveranstaltungen
+9,fr,Divertissement,Divertissement client et événements d'équipe
+10,de,Utilities,Bürodienstleistungen und Versorgungseinrichtungen
+10,fr,Services,Services de bureau et équipements

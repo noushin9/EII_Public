@@ -1,0 +1,73 @@
+<mvc:View controllerName="expense.expensecalc.controller.Ex_m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:layout="sap.ui.layout"
+    xmlns:core="sap.ui.core">
+
+    <Page id="page" title="{i18n>title}">
+          <content>
+            <VBox id= "vbox" class="sapUiSmallMargin">
+
+                <Label id="expLabel" text="Expense Name"/>
+                <Input id="expName"/>
+
+                <Label id="amountLabel" text="Amount"/>
+                <Input id="amount" type="Number"/>
+
+                <Button id="saveBtn" text="Save" press="onSave"/>
+                <Button id="clearBtn" text="Clear" press="onClear"/>
+
+                
+
+            </VBox>
+         <Table id="incident"  
+    items = "{
+    path : '/Users',
+    parameters : {
+        '$expand' : 'accounts,budgets'
+    }
+    }"
+    >
+    <columns>
+    <Column id='i'>
+    <Text text='Name'></Text>
+    </Column>
+
+    <Column id='j'>
+    <Text text='MobileNo'></Text>
+    </Column>
+    
+    <Column id='k'>
+    <Text text='email'></Text>
+    </Column>
+    <Column >
+    <Text text='Accounts'></Text>
+    </Column>
+    <Column >
+    <Text text='Budgets'></Text>
+    </Column>
+    
+    </columns>
+    <items>
+    <ColumnListItem >
+    <cells>
+    <Text text="{name}"></Text>
+    <Text text="{mobileNo}"></Text>
+    <Text text="{email}"></Text>
+    <Text text="{accounts}"></Text>
+    <Text text="{budgets}"></Text>
+    </cells>
+    
+    </ColumnListItem>
+    </items>
+
+
+    
+    </Table>
+        </content>
+        
+    </Page>
+
+   
+
+</mvc:View>

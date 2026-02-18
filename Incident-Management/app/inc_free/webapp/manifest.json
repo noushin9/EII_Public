@@ -1,0 +1,118 @@
+{
+  "_version": "1.81.0",
+  "sap.app": {
+    "id": "incidentfree.incfree",
+    "type": "application",
+    "i18n": "i18n/i18n.properties",
+    "applicationVersion": {
+      "version": "0.0.1"
+    },
+    "title": "{{appTitle}}",
+    "description": "{{appDescription}}",
+    "resources": "resources.json",
+    "sourceTemplate": {
+      "id": "@sap/generator-fiori:basic",
+      "version": "1.20.1",
+      "toolsId": "53256617-15ec-481b-9279-68080799b48f"
+    },
+    "dataSources": {
+      "mainService": {
+        "uri": "/odata/v4/processor/",
+        "type": "OData",
+        "settings": {
+          "annotations": [],
+          "odataVersion": "4.0"
+        }
+      }
+    }
+  },
+  "sap.ui": {
+    "technology": "UI5",
+    "icons": {
+      "icon": "",
+      "favIcon": "",
+      "phone": "",
+      "phone@2": "",
+      "tablet": "",
+      "tablet@2": ""
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    }
+  },
+  "sap.ui5": {
+    "flexEnabled": false,
+    "dependencies": {
+      "minUI5Version": "1.144.1",
+      "libs": {
+        "sap.m": {},
+        "sap.ui.core": {}
+      }
+    },
+    "contentDensities": {
+    "supportedLocales": ["en"],
+      "compact": true,
+      "cozy": true
+    },
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "incidentfree.incfree.i18n.i18n"
+        }
+      },
+      "": {
+        "dataSource": "mainService",
+        "preload": true,
+        "settings": {
+          "operationMode": "Server",
+          "autoExpandSelect": true,
+          "earlyRequests": true
+        }
+      }
+    },
+    "resources": {
+      "css": [
+        {
+          "uri": "css/style.css"
+        }
+      ]
+    },
+    "routing": {
+      "config": {
+        "routerClass": "sap.m.routing.Router",
+        "controlAggregation": "pages",
+        "controlId": "app",
+        "transition": "slide",
+        "type": "View",
+        "viewType": "XML",
+        "path": "incidentfree.incfree.view",
+        "async": true,
+        "viewPath": "incidentfree.incfree.view"
+      },
+      "routes": [
+        {
+          "name": "Routeincidentfree",
+          "pattern": ":?query:",
+          "target": [
+            "Targetincidentfree"
+          ]
+        }
+      ],
+      "targets": {
+        "Targetincidentfree": {
+          "id": "incidentfree",
+          "name": "incidentfree"
+        }
+      }
+    },
+    "rootView": {
+      "viewName": "incidentfree.incfree.view.App",
+      "type": "XML",
+      "id": "App",
+      "async": true
+    }
+  }
+}

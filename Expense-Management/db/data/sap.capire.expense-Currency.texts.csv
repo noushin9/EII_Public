@@ -1,0 +1,21 @@
+code,locale,name,descr
+INR,de,Indische Rupie,Indische Währung
+INR,fr,Roupie indienne,Monnaie indienne
+USD,de,US-Dollar,US-Währung
+USD,fr,Dollar américain,Monnaie américaine
+EUR,de,Euro,Europäische Währung
+EUR,fr,Euro,Monnaie européenne
+GBP,de,Britisches Pfund,Währung des Vereinigten Königreichs
+GBP,fr,Livre sterling,Monnaie britannique
+JPY,de,Japanischer Yen,Japanische Währung
+JPY,fr,Yen japonais,Monnaie japonaise
+AUD,de,Australischer Dollar,Australische Währung
+AUD,fr,Dollar australien,Monnaie australienne
+CAD,de,Kanadischer Dollar,Kanadische Währung
+CAD,fr,Dollar canadien,Monnaie canadienne
+SGD,de,Singapur-Dollar,Währung von Singapur
+SGD,fr,Dollar de Singapour,Monnaie de Singapour
+CHF,de,Schweizer Franken,Schweizer Währung
+CHF,fr,Franc suisse,Monnaie suisse
+AED,de,VAE-Dirham,Währung der VAE
+AED,fr,Dirham des Émirats,Monnaie des Émirats

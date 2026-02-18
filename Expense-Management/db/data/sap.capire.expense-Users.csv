@@ -1,0 +1,11 @@
+ID,firstName,lastName,mobileNo,email,createdAt,createdBy,modifiedAt,modifiedBy
+1,John,Smith,9876543210,john.smith@example.com,2026-01-01T10:00:00,ADMIN,2026-01-15T14:30:00,ADMIN
+2,Sarah,Johnson,9876543211,sarah.johnson@example.com,2026-01-02T11:00:00,ADMIN,2026-01-16T09:45:00,ADMIN
+3,Michael,Williams,9876543212,michael.williams@example.com,2026-01-03T09:30:00,SYSTEM,2026-01-17T15:20:00,SYSTEM
+4,Emma,Brown,9876543213,emma.brown@example.com,2026-01-04T08:45:00,ADMIN,2026-01-18T16:10:00,ADMIN
+5,David,Jones,9876543214,david.jones@example.com,2026-01-05T13:15:00,USER,2026-01-19T11:30:00,USER
+6,Lisa,Garcia,9876543215,lisa.garcia@example.com,2026-01-06T14:20:00,SYSTEM,2026-01-20T10:50:00,SYSTEM
+7,James,Martinez,9876543216,james.martinez@example.com,2026-01-07T12:40:00,ADMIN,2026-01-21T17:25:00,ADMIN
+8,Anna,Rodriguez,9876543217,anna.rodriguez@example.com,2026-01-08T09:10:00,USER,2026-01-22T14:45:00,USER
+9,Robert,Lee,9876543218,robert.lee@example.com,2026-01-09T16:30:00,ADMIN,2026-01-23T09:20:00,ADMIN
+10,Maria,White,9876543219,maria.white@example.com,2026-01-10T10:55:00,SYSTEM,2026-01-24T16:05:00,SYSTEM

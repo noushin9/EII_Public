@@ -1,0 +1,11 @@
+code,name,descr
+Bank,Bank Account,Regular bank savings account
+CreditCard,Credit Card,Corporate credit card
+DebitCard,Debit Card,Debit card account
+Wallet,Digital Wallet,Digital payment wallet
+UPI,UPI Account,Unified Payments Interface account
+Savings,Savings Account,Employee savings account
+Cash,Cash,Physical cash fund
+CorporateCard,Corporate Card,Corporate issued card
+Payroll,Payroll Account,Payroll deposit account
+Miscellaneous,Miscellaneous,Other account types

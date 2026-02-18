@@ -1,0 +1,21 @@
+code,locale,name,descr
+Draft,de,Entwurf,Kostenbericht ist im Entwurfsstatus
+Draft,fr,Brouillon,La note de frais est en état de brouillon
+Submitted,de,Eingereicht,Kostenbericht zur Genehmigung eingereicht
+Submitted,fr,Soumis,Note de frais soumise pour approbation
+Approved,de,Genehmigt,Kostenbericht vom Manager genehmigt
+Approved,fr,Approuvé,Note de frais approuvée par le responsable
+Rejected,de,Abgelehnt,Kostenbericht abgelehnt
+Rejected,fr,Rejeté,Note de frais rejetée
+Paid,de,Bezahlt,Kostenbericht wurde bezahlt
+Paid,fr,Payé,Note de frais payée
+Pending,de,Ausstehend,Kostenbericht awaiting action
+Pending,fr,En attente,Note de frais en attente d'action
+Review,de,Unter Überprüfung,Kostenbericht unter Managerüberprüfung
+Review,fr,En révision,Note de frais en cours d'examen du responsable
+OnHold,de,Angehalten,Kostenbericht ist temporär angehalten
+OnHold,fr,Suspendu,Note de frais temporairement mise en attente
+Closed,de,Geschlossen,Kostenberichtsverarbeitung abgeschlossen
+Closed,fr,Fermé,Traitement de la note de frais terminé
+Archived,de,Archiviert,Kostenbericht archiviert
+Archived,fr,Archivé,Note de frais archivée
