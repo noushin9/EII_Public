@@ -1,0 +1,21 @@
+ID,Productname,description,quantity,price,Category_ID
+1,Samsung Galaxy M14,5G smartphone with 6000mAh battery and 50MP camera,120,18999.00,1
+2,Apple iPhone 13,6.1-inch display A15 Bionic chip dual camera,45,65999.00,1
+3,HP Pavilion 15 Laptop,Intel i5 12th Gen 16GB RAM 512GB SSD,30,72499.00,1
+4,Boat Airdopes 141,Wireless earbuds with ENx technology,200,1299.00,1
+5,Sony Bravia 43 Inch TV,4K Ultra HD Smart LED TV with Dolby Audio,25,42999.00,1
+6,Nike Revolution 6 Shoes,Lightweight running shoes for men,150,3499.00,5
+7,Adidas Sports Socks,Cotton ankle length socks pack of 3,300,299.00,5
+8,Levi’s Men T-Shirt,Regular fit cotton round neck t-shirt,180,1299.00,4
+9,Philips Beard Trimmer,Self-sharpening blades with fast charge,140,1999.00,6
+10,Maybelline Fit Me Foundation,Matte finish liquid foundation SPF 22,220,599.00,6
+11,Tata Sampann Toor Dal,Unpolished protein-rich lentils 1kg,500,149.00,7
+12,Aashirvaad Atta,Whole wheat flour 5kg pack,350,249.00,7
+13,Classmate Notebook,200 pages single line notebook,400,99.00,8
+14,Prestige Induction Cooktop,2000W induction stove with preset menus,80,3499.00,3
+15,IKEA Study Table,Engineered wood compact study desk,40,12499.00,3
+16,Wildcraft Laptop Backpack,Water resistant 30L travel backpack,90,2799.00,4
+17,Noise ColorFit Pro 4,AMOLED display smartwatch with fitness tracking,110,8999.00,10
+18,Decathlon Yoga Mat,Anti-slip EVA material yoga mat 6mm,160,899.00,10
+19,Fisher-Price Toy Car,Push and go toy car for kids,250,499.00,9
+20,Pigeon Kitchen Tool Set,Stainless steel ladle spatula set of 6,130,899.00,3

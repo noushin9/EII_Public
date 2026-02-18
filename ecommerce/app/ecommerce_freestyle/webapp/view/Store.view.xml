@@ -1,0 +1,27 @@
+<mvc:View controllerName="ecommerce.ecommercefreestyle.controller.Store"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button id="incident" text="{i18n>goToIncidentList}" press="onGoToIncidentList"></Button>
+    <Table id="incidentTable" footerText="Table of Incidents" visible="true" width="50%" items="{path: '/ Customer'}">
+    <columns>
+        <Column id="column1">
+            <Text text="ID"></Text>
+        </Column>
+        <Column id="column2">
+        </Column>
+        <Column id="column3">
+        </Column>
+        
+    </columns>
+    <items>
+        <ColumnListItem id="cli1" vAlign="Middle">
+        <cells>
+        <Text text="{ID}"></Text>
+        </cells>
+        </ColumnListItem>
+    </items>
+   
+    </Table>
+    </Page>
+</mvc:View>

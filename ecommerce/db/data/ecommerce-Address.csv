@@ -1,0 +1,21 @@
+ID,Customer_ID,HouseNumber,Area,City,State,PostalCode,Country_code
+1,CUST001,12A,Indiranagar,Bengaluru,Karnataka,560038,IN
+2,CUST002,45,Whitefield,Bengaluru,Karnataka,560066,IN
+3,CUST003,78B,Anna Nagar,Chennai,Tamil Nadu,600040,IN
+4,CUST004,221,Adyar,Chennai,Tamil Nadu,600020,IN
+5,CUST005,9C,Gachibowli,Hyderabad,Telangana,500032,IN
+6,CUST006,310,Madhapur,Hyderabad,Telangana,500081,IN
+7,CUST007,56,Andheri West,Mumbai,Maharashtra,400058,IN
+8,CUST008,902,Bandra East,Mumbai,Maharashtra,400051,IN
+9,CUST009,14,Alkapuri,Vadodara,Gujarat,390007,IN
+10,CUST010,67,Navrangpura,Ahmedabad,Gujarat,380009,IN
+11,CUST011,88,Sector 62,Noida,Uttar Pradesh,201309,IN
+12,CUST012,120,Dwarka,New Delhi,Delhi,110075,IN
+13,CUST013,33A,Rajajinagar,Bengaluru,Karnataka,560010,IN
+14,CUST014,501,Banashankari,Bengaluru,Karnataka,560070,IN
+15,CUST015,72,Kothrud,Pune,Maharashtra,411038,IN
+16,CUST016,210,Hinjewadi,Pune,Maharashtra,411057,IN
+17,CUST017,18,Salt Lake,Kolkata,West Bengal,700091,IN
+18,CUST018,44,Behala,Kolkata,West Bengal,700034,IN
+19,CUST019,305,Patia,Bhubaneswar,Odisha,751024,IN
+20,CUST020,61,Saheed Nagar,Bhubaneswar,Odisha,751007,IN
