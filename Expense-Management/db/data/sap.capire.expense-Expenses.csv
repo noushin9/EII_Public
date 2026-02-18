@@ -1,0 +1,11 @@
+ID,user_ID,account_ID,title,amount,currency_code,date,category_ID,descr,status_code
+1,1,1,Office Equipment,5000.00,INR,2026-02-01,3,New desk and chair setup,Approved
+2,2,2,Business Flight,12500.00,USD,2026-02-05,1,Flight to New York conference,Approved
+3,3,3,Client Meeting Lunch,850.00,EUR,2026-02-08,2,Lunch with potential client,Approved
+4,1,1,Software License,3500.00,INR,2026-02-10,1,Annual software subscription,Approved
+5,4,5,Hotel Accommodation,4200.00,USD,2026-02-12,6,3-night hotel stay,Approved
+6,2,2,Training Course,2800.00,EUR,2026-02-15,5,Professional development course,Submitted
+7,5,7,Travel Insurance,450.00,INR,2026-02-18,1,Business travel insurance,Approved
+8,3,3,Office Supplies,1200.00,USD,2026-02-20,3,Stationery and printing,Approved
+9,1,1,Client Entertainment,2500.00,EUR,2026-02-22,9,Team dinner and event,Approved
+10,4,5,Medical Checkup,500.00,INR,2026-02-25,4,Annual health checkup,Approved

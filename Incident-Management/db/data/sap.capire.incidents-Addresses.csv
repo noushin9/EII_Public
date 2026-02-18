@@ -1,0 +1,21 @@
+ID,customer_ID,city,postCode,streetAddress,createdAt,createdBy,modifiedAt,modifiedBy
+1a2b3c4d-001,CUST1001,Hyderabad,500081,"Flat 101, Green Heights, Madhapur",2025-01-01T09:10:00Z,admin,2025-01-05T11:20:00Z,system
+1a2b3c4d-002,CUST1002,Bengaluru,560037,"House 22, Whitefield Main Rd",2025-01-02T10:15:00Z,admin,2025-01-06T12:30:00Z,system
+1a2b3c4d-003,CUST1003,Chennai,600042,"No 14, ECR Road, Thiruvanmiyur",2025-01-03T11:20:00Z,admin,2025-01-07T13:40:00Z,system
+1a2b3c4d-004,CUST1004,Pune,411028,"Flat 503, Blue Ridge, Hinjewadi",2025-01-04T12:25:00Z,admin,2025-01-08T14:50:00Z,system
+1a2b3c4d-005,CUST1005,Mumbai,400076,"Apt 12B, Powai Lake View",2025-01-05T13:30:00Z,admin,2025-01-09T15:00:00Z,system
+1a2b3c4d-006,CUST1006,Delhi,110017,"B-45, Saket Extension",2025-01-06T14:35:00Z,admin,2025-01-10T16:10:00Z,system
+1a2b3c4d-007,CUST1007,Noida,201301,"C-902, Sector 62",2025-01-07T15:40:00Z,admin,2025-01-11T17:20:00Z,system
+1a2b3c4d-008,CUST1008,Gurgaon,122018,"Tower 5, DLF Phase 3",2025-01-08T16:45:00Z,admin,2025-01-12T18:30:00Z,system
+1a2b3c4d-009,CUST1009,Coimbatore,641014,"Plot 8, Avinashi Road",2025-01-09T17:50:00Z,admin,2025-01-13T19:40:00Z,system
+1a2b3c4d-010,CUST1010,Kochi,682030,"Flat 7C, Marine Drive",2025-01-10T18:55:00Z,admin,2025-01-14T20:50:00Z,system
+1a2b3c4d-011,CUST1011,Trivandrum,695014,"TC 25/341, Pattom",2025-01-11T09:05:00Z,admin,2025-01-15T11:15:00Z,system
+1a2b3c4d-012,CUST1012,Jaipur,302017,"H-12, Malviya Nagar",2025-01-12T10:10:00Z,admin,2025-01-16T12:25:00Z,system
+1a2b3c4d-013,CUST1013,Indore,452010,"Block A, Vijay Nagar",2025-01-13T11:15:00Z,admin,2025-01-17T13:35:00Z,system
+1a2b3c4d-014,CUST1014,Bhopal,462026,"E-7, Arera Colony",2025-01-14T12:20:00Z,admin,2025-01-18T14:45:00Z,system
+1a2b3c4d-015,CUST1015,Visakhapatnam,530017,"Flat 3A, MVP Colony",2025-01-15T13:25:00Z,admin,2025-01-19T15:55:00Z,system
+1a2b3c4d-016,CUST1016,Vijayawada,520010,"D No 54-10-23, Benz Circle",2025-01-16T14:30:00Z,admin,2025-01-20T16:05:00Z,system
+1a2b3c4d-017,CUST1017,Madurai,625020,"Plot 19, Anna Nagar",2025-01-17T15:35:00Z,admin,2025-01-21T17:15:00Z,system
+1a2b3c4d-018,CUST1018,Salem,636004,"No 6, Five Roads",2025-01-18T16:40:00Z,admin,2025-01-22T18:25:00Z,system
+1a2b3c4d-019,CUST1019,Tirupati,517501,"Flat 204, Alipiri Road",2025-01-19T17:45:00Z,admin,2025-01-23T19:35:00Z,system
+1a2b3c4d-020,CUST1020,Nellore,524004,"House 9-12, Magunta Layout",2025-01-20T18:50:00Z,admin,2025-01-24T20:45:00Z,system

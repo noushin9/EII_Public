@@ -1,0 +1,21 @@
+code,locale,name,descr
+Bank,de,Bankkonto,Regelmäßiges Banksparkonto
+Bank,fr,Compte bancaire,Compte épargne bancaire régulier
+CreditCard,de,Kreditkarte,Unternehmenskreditkarte
+CreditCard,fr,Carte de crédit,Carte de crédit d'entreprise
+DebitCard,de,Debitkarte,Debit-Kartenkonto
+DebitCard,fr,Carte de débit,Compte carte de débit
+Wallet,de,Digitale Brieftasche,Digitales Zahlungsportefeuille
+Wallet,fr,Portefeuille numérique,Portefeuille de paiement numérique
+UPI,de,UPI-Konto,Einheitliche Zahlungsschnittstelle
+UPI,fr,Compte UPI,Interface de paiement unifiée
+Savings,de,Sparkonto,Mitarbeitersparkonto
+Savings,fr,Compte épargne,Compte épargne des employés
+Cash,de,Bargeld,Physisches Bargeld
+Cash,fr,Espèces,Fonds en espèces physiques
+CorporateCard,de,Firmenkarte,Von der Unternehmung ausgestellte Karte
+CorporateCard,fr,Carte d'entreprise,Carte délivrée par l'entreprise
+Payroll,de,Gehaltsabrechnungskonto,Gehaltseinzahlungskonto
+Payroll,fr,Compte de paie,Compte de dépôt de paie
+Miscellaneous,de,Sonstiges,Andere Kontotypen
+Miscellaneous,fr,Divers,Autres types de comptes

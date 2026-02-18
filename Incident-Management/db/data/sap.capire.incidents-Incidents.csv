@@ -1,0 +1,21 @@
+ID,customer_ID,title,urgency_code,status_code,createdAt,createdBy,modifiedAt,modifiedBy
+TCK001,USR001,"Login issue",H,N,2025-01-01T09:00:00Z,admin,2025-01-01T10:00:00Z,system
+TCK002,USR002,"Password reset required",M,I,2025-01-01T09:30:00Z,admin,2025-01-01T11:00:00Z,system
+TCK003,USR003,"Account verification pending",L,N,2025-01-02T10:00:00Z,admin,2025-01-02T12:00:00Z,system
+TCK004,USR004,"Payment failed",H,N,2025-01-02T10:30:00Z,admin,2025-01-02T13:00:00Z,system
+TCK005,USR005,"Refund request",M,I,2025-01-03T11:00:00Z,admin,2025-01-03T14:00:00Z,system
+TCK006,USR006,"Profile update error",L,R,2025-01-03T11:30:00Z,admin,2025-01-03T15:00:00Z,system
+TCK007,USR007,"Unable to place order",H,N,2025-01-04T12:00:00Z,admin,2025-01-04T16:00:00Z,system
+TCK008,USR008,"Email not receiving",M,I,2025-01-04T12:30:00Z,admin,2025-01-04T17:00:00Z,system
+TCK009,USR009,"Delivery delayed",L,N,2025-01-05T13:00:00Z,admin,2025-01-05T18:00:00Z,system
+TCK010,CUST1010,"Incorrect billing amount",H,N,2025-01-05T13:30:00Z,admin,2025-01-05T19:00:00Z,system
+TCK011,CUST1011,"Change phone number",L,R,2025-01-06T14:00:00Z,admin,2025-01-06T20:00:00Z,system
+TCK012,CUST1012,"Subscription cancellation",M,I,2025-01-06T14:30:00Z,admin,2025-01-06T21:00:00Z,system
+TCK013,CUST1013,"App crash on startup",H,N,2025-01-07T15:00:00Z,admin,2025-01-07T22:00:00Z,system
+TCK014,CUST1014,"Unable to update address",M,R,2025-01-07T15:30:00Z,admin,2025-01-07T23:00:00Z,system
+TCK015,CUST1015,"Order status incorrect",L,N,2025-01-08T16:00:00Z,admin,2025-01-08T09:00:00Z,system
+TCK016,CUST1016,"OTP not received",H,N,2025-01-08T16:30:00Z,admin,2025-01-08T10:00:00Z,system
+TCK017,CUST1017,"Wallet balance mismatch",M,I,2025-01-09T17:00:00Z,admin,2025-01-09T11:00:00Z,system
+TCK018,CUST1018,"Invoice download failed",L,R,2025-01-09T17:30:00Z,admin,2025-01-09T12:00:00Z,system
+TCK019,CUST1019,"Account deactivation request",M,N,2025-01-10T18:00:00Z,admin,2025-01-10T13:00:00Z,system
+TCK020,CUST1020,"Feedback regarding service",L,CLOSED,2025-01-10T18:30:00Z,admin,2025-01-10T14:00:00Z,system

@@ -1,0 +1,48 @@
+<mvc:View controllerName="incidentfree.incfree.controller.incidentfree"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+   <Table id="incident"
+    items = "{
+    path : '/Incidents',
+    parameters: {
+        expand: 'customer,status,urgency'
+    }
+    }">
+    <columns>
+        <Column>
+            <Text text="Customer" />
+        </Column>
+        <Column>
+            <Text text="Title" />
+        </Column>
+            <Column>
+                <Text text="Status" />  
+            </Column>
+             <Column>
+                <Text text="Urgency" />
+            </Column>
+             <Column>
+                <Text text="Created At" />
+            </Column>
+             <Column>
+                <Text text="Created By" />
+            </Column>
+    </columns>
+    <items>
+        <ColumnListItem>
+            <cells>
+                <Text text="{customer/name}" />
+                <Text text="{title}" />
+                <Text text="{status/name}" />
+                <Text text="{urgency/name}" />
+                <Text text="{createdAt}" />
+                <Text text="{createdBy}" />
+            </cells>
+        </ColumnListItem>
+    </items>
+   </Table>
+    </content>
+    </Page>
+</mvc:View>

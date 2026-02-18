@@ -1,0 +1,11 @@
+ID,user_ID,type_code,balance
+1,1,Bank,25000.50
+2,2,CreditCard,15750.00
+3,3,DebitCard,18900.25
+4,1,UPI,8500.75
+5,4,Wallet,12300.00
+6,2,Bank,22450.60
+7,5,CreditCard,19800.40
+8,3,UPI,14200.85
+9,1,Wallet,10650.30
+10,4,Bank,21500.00
