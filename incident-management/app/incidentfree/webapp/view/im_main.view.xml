@@ -1,0 +1,12 @@
+<mvc:View controllerName="ns.incidentfree.incidentfree.controller.im_main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button text='Click Me! Ayubayu' press="onButtonClick" type="Emphasized" icon="sap-icon://accessibility"/> 
+    
+        <Table>
+            
+        </Table>
+    
+    </Page>
+</mvc:View>

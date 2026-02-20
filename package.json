@@ -2,5 +2,25 @@
   "dependencies": {
     "@sap/cds": "^9.7.1",
     "@sap/cds-dk": "^9.7.2"
-  }
+  },
+  "name": "eii_public",
+  "version": "1.0.0",
+  "description": "This is the public repository of EII team",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abasu1996/EII_Public_anim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abasu1996/EII_Public_anim/issues"
+  },
+  "homepage": "https://github.com/abasu1996/EII_Public_anim#readme"
 }
