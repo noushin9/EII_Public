@@ -37,7 +37,6 @@ modules:
           properties:
           destinations: '[{"forwardAuthToken": false,"name": "ui5","url": "https://ui5.sap.com"}]'
           SEND_XFRAMEOPTIONS: false
-          COOKIES: '{"SameSite":"None" }'
       - name: docgen-html5-runtime
 
   - name: docgenerator-app-content
@@ -77,6 +76,10 @@ modules:
       memory: 1G
       instances: 1
       buildpack: nodejs_buildpack
+    properties:
+      SEND_XFRAMEOPTIONS: false
+      ENABLE_FRAME_ANCESTORS_CSP_HEADERS: false
+      COOKIES: '{"SameSite":"None" }'
     build-parameters:
       builder: npm
     requires:
@@ -85,7 +88,7 @@ modules:
         properties:
           name: srv-api # must be used in xs-app.json as well
           url: ~{srv-url}
-          forwardAuthToken: true
+          forwardAuthToken: false
       - name: docgen-html5-runtime
       - name: docgen-auth
       - name: docgen-destination
