@@ -1,0 +1,36 @@
+POST http://localhost:4004/odata/v4/admin/Customer HTTP/1.1
+Accept: application/json
+
+content 
+
+###
+GET http://localhost:4004/odata/v4/admin/Orders HTTP/1.1
+
+###
+POST http://localhost:4004/odata/v4/admin/Customer HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Anim Basu",
+    "address" : [
+                    {
+                    "HouseNumber":"19",
+                    "Area" : "Durga Nagar",
+                    "City" : "Kolkata",
+                    "State" : "West Bengal",
+                    "PostalCode" : "544582",
+                    "Country_code" :"IN"
+                    }
+    ],
+    "phone" : "9876543210",
+    "email" : "anim@example.com"
+}
+
+###
+GET http://localhost:4004/odata/v4/admin/Items HTTP/1.1
+
+###
+GET http://localhost:4004/odata/v4/admin/Address HTTP/1.1
+
+###
+GET http://localhost:4004/odata/v4/admin/Products HTTP/1.1
